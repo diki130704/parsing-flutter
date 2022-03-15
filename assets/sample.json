@@ -1,0 +1,41 @@
+{
+    "name": "Diki Alif Taufik",
+    "age": 17,
+    "gender": "Male",
+    "hobi": [
+        "Mendengarkan musik",
+        "Main game",
+        "Membaca"
+    ],
+    "github": {
+        "username": "dikialift", 
+        "repository": 100
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "Flutter: Introduction",
+            "subtitle": "Beautiful native apps with dart language"
+        },
+        {
+            "id": 2,
+            "title": "Flutter: LinearLayout",
+            "subtitle": "How to design linearlayout in flutter"
+        },
+        {
+            "id": 3,
+            "title": "Flutter: RelativeLayout",
+            "subtitle": "How to design relativelayout in flutter"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "Personal",
+            "phone": "089659317206"
+        },
+        "2": {
+            "name": "Work",
+            "phone": "081524762804"
+        }
+    }
+}
