@@ -61,7 +61,7 @@ class Github {
   });
   @override
   String toString() {
-    return 'Github{username: $username, repository: $repository}';
+    return 'username: $username, repository: $repository';
   }
 
   factory Github.fromJson(Map<String, dynamic> json) {
@@ -80,7 +80,7 @@ class Article {
   });
   @override
   String toString() {
-    return 'Article{id: $id, title: $title, subtitle: $subtitle}';
+    return 'id: $id, title: $title, subtitle: $subtitle}';
   }
 
   factory Article.fromJson(Map<String, dynamic> json) {
@@ -98,7 +98,7 @@ class Contact {
   });
   @override
   String toString() {
-    return 'Contact{name: $name, phone: $phone}';
+    return 'name: $name, phone: $phone';
   }
 
   factory Contact.fromJson(Map<String, dynamic> json) {
